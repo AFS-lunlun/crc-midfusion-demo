@@ -1,4 +1,4 @@
-# Mid-fusion Case-level Demo (slim)
+# Mid-fusion Case-level Demo 
 
 Browse-only Streamlit prototype. Risk/survival tables cover the frozen test set (**n=42**); dose slices + Mid Grad-CAM are packaged for **7 showcase cases**.
 No online inference and no checkpoint loading.
