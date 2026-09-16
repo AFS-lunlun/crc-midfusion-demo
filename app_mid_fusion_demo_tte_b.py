@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Fig7 Mid-fusion interactive demo (browse-only precompute, slim _b).
+"""Mid-fusion interactive demo.
 
 Based on app_mid_fusion_demo_tte_a.py: tables for all 42 test cases;
 dose/CAM volumes for 7 showcase cases only.
