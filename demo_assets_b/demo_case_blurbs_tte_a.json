@@ -1,0 +1,9 @@
+{
+  "035873-1986": "Clinical-only estimates the 24-month event probability at about 0.07 (low risk), while Mid raises it to about 0.22 (high risk). The patient died at day 115, an outcome-concordant upward reclassification example (age 49, conventional dose 45–52 Gy).",
+  "042165-3014": "Clinical-only estimates about 0.61 (high risk), while Mid lowers it to about 0.19 (low risk). Follow-up was censored at day 769 (beyond 24 months), an outcome-concordant downward reclassification example (TNM III, age 76, high dose ≥60 Gy).",
+  "046040-1986": "Clinical-only estimates about 0.32, while Mid lowers it to about 0.18. Censored at day 1007 with no death within the horizon (TNM III, age 82, palliative/short-course radiotherapy).",
+  "046564-1986": "Clinical-only estimates about 0.27, while Mid lowers it to about 0.14. Censored at day 2020 with no death within the horizon (TNM III, age 65, conventional dose).",
+  "040807-3014": "Figure 5C primary Grad-CAM example: censored follow-up at day 822. Mid forms focal attention aligned with high-dose regions; the slice is anchored at the Mid attention peak.",
+  "049259-1986": "Figure 5C supplementary event example: death at day 876. Used to contrast Mid dose-space attention on an event case.",
+  "061675-1986": "Figure 5C supplementary censored example: censored at day 54. Used to show Mid dose attention on another eligible case."
+}

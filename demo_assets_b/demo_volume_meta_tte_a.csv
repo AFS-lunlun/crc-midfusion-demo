@@ -1,0 +1,43 @@
+﻿case_id,is_showcase,showcase_role,showcase_roles,mid_cam_peak_z,dose_peak_z,has_dose,has_cam,blurb
+035873-1986,1,reclass_up,reclass_up,60,33,True,True,"Clinical-only estimates the 24-month event probability at about 0.07 (low risk), while Mid raises it to about 0.22 (high risk). The patient died at day 115, an outcome-concordant upward reclassification example (age 49, conventional dose 45–52 Gy)."
+036398-2967,0,,,31,31,True,True,
+036545-2967,0,,,34,34,True,True,
+036610-2967,0,,,31,31,True,True,
+036618-2967,0,,,32,32,True,True,
+036632-2967,0,,,60,19,True,True,
+037094-2967,0,,,33,33,True,True,
+037182-2967,0,,,60,34,True,True,
+040807-3014,1,gradcam_main,gradcam_main,28,42,True,True,Figure 5C primary Grad-CAM example: censored follow-up at day 822. Mid forms focal attention aligned with high-dose regions; the slice is anchored at the Mid attention peak.
+041097-3014,0,,,60,28,True,True,
+041150-3014,0,,,60,31,True,True,
+042009-3014,0,,,60,27,True,True,
+042113-3014,0,,,31,31,True,True,
+042165-3014,1,reclass_down,reclass_down,60,24,True,True,"Clinical-only estimates about 0.61 (high risk), while Mid lowers it to about 0.19 (low risk). Follow-up was censored at day 769 (beyond 24 months), an outcome-concordant downward reclassification example (TNM III, age 76, high dose ≥60 Gy)."
+044086-1986,0,,,57,57,True,True,
+044542-1986,0,,,11,34,True,True,
+044794-1986,0,,,60,23,True,True,
+045044-1986,0,,,60,30,True,True,
+045234-1986,0,,,30,30,True,True,
+045278-1986,0,,,60,24,True,True,
+045377-1986,0,,,34,34,True,True,
+045643-1986,0,,,11,29,True,True,
+045982-1986,0,,,31,31,True,True,
+046040-1986,1,reclass_down,reclass_down,34,34,True,True,"Clinical-only estimates about 0.32, while Mid lowers it to about 0.18. Censored at day 1007 with no death within the horizon (TNM III, age 82, palliative/short-course radiotherapy)."
+046060-1986,0,,,60,32,True,True,
+046190-1986,0,,,32,32,True,True,
+046564-1986,1,reclass_down,reclass_down,39,39,True,True,"Clinical-only estimates about 0.27, while Mid lowers it to about 0.14. Censored at day 2020 with no death within the horizon (TNM III, age 65, conventional dose)."
+049052-1986,0,,,32,32,True,True,
+049224-1986,0,,,11,34,True,True,
+049259-1986,1,gradcam_supp,gradcam_supp,11,34,True,True,Figure 5C supplementary event example: death at day 876. Used to contrast Mid dose-space attention on an event case.
+049299-1986,0,,,33,33,True,True,
+049309-1986,0,,,34,34,True,True,
+049390-1986,0,,,31,31,True,True,
+049468-1986,0,,,33,33,True,True,
+049738-1986,0,,,34,34,True,True,
+049759-1986,0,,,32,32,True,True,
+050199-1986,0,,,33,33,True,True,
+050408-1986,0,,,33,33,True,True,
+050410-1986,0,,,32,32,True,True,
+061675-1986,1,gradcam_supp,gradcam_supp,19,34,True,True,Figure 5C supplementary censored example: censored at day 54. Used to show Mid dose attention on another eligible case.
+061805-1986,0,,,60,60,True,True,
+061913-1986,0,,,39,39,True,True,
