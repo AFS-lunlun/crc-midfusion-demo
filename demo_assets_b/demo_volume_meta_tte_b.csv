@@ -1,0 +1,8 @@
+﻿case_id,is_showcase,showcase_role,showcase_roles,mid_cam_peak_z,dose_peak_z,has_dose,has_cam,blurb
+035873-1986,1,reclass_up,reclass_up,60,33,True,True,Clinical-only 将 24 个月事件概率估为约 0.07（低危），Mid 升至约 0.22（高危）。患者于 115 天死亡，属与终点同向的风险上调代表例（49 岁，常规剂量 45–52 Gy）。
+040807-3014,1,gradcam_main,gradcam_main,28,42,True,True,Figure 5C 主图 Grad-CAM 例：删失随访 822 天。Mid 在剂量体上形成与高剂量区对应的局灶注意，切片锚定于 Mid 注意峰值层。
+042165-3014,1,reclass_down,reclass_down,60,24,True,True,Clinical-only 估为约 0.61（高危），Mid 降至约 0.19（低危）。随访删失于 769 天（超过 24 个月），属与终点同向的风险下调代表例（TNM III，76 岁，高剂量 ≥60 Gy）。
+046040-1986,1,reclass_down,reclass_down,34,34,True,True,Clinical-only 估为约 0.32，Mid 降至约 0.18。删失于 1007 天，期内未死亡（TNM III，82 岁，姑息/短程放疗）。
+046564-1986,1,reclass_down,reclass_down,39,39,True,True,Clinical-only 估为约 0.27，Mid 降至约 0.14。删失于 2020 天，期内未死亡（TNM III，65 岁，常规剂量）。
+049259-1986,1,gradcam_supp,gradcam_supp,11,34,True,True,Figure 5C 补充事件例：随访 876 天发生死亡。用于对照 Mid 剂量空间注意在事件病例上的表现。
+061675-1986,1,gradcam_supp,gradcam_supp,19,34,True,True,Figure 5C 补充删失例：随访 54 天删失。用于展示另一合格病例的 Mid 剂量注意峰值层。
