@@ -1,0 +1,4 @@
+﻿case_id,is_showcase,showcase_role,showcase_roles,manuscript_figure,panel_png,mid_cam_peak_z,dose_peak_z,has_dose,has_cam,display_size_px,volume_dtype,blurb
+040807-3014,1,gradcam_main,gradcam_main,Figure5C,panels/Figure5C.png,28,42,True,True,512,float32,Figure 5C primary Grad-CAM example: censored follow-up at day 822. The panel matches the manuscript figure (dose row + Early/Mid/Late Grad-CAM).
+049259-1986,1,gradcam_supp,gradcam_supp,FigureS3C1,panels/FigureS3C1.png,11,34,True,True,512,float32,Figure S3C1 supplementary Grad-CAM example: death at day 876. The panel matches the manuscript supplementary figure.
+061675-1986,1,gradcam_supp,gradcam_supp,FigureS3C2,panels/FigureS3C2.png,19,34,True,True,512,float32,Figure S3C2 supplementary Grad-CAM example: censored at day 54. The panel matches the manuscript supplementary figure.
